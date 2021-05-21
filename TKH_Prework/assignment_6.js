@@ -1,4 +1,4 @@
-var array = ["Retta", Vern, Marica, Cyrus, Linette, Curt, Nichole, Jesica, Wynell, Michaele ]
+var array = ["Retta", "Vern", "Marica", "Cyrus", "Linette", "Curt", "Nichole", "Jesica", "Wynell", "Michaele" ]
 
 var answer = compare(array)
 
